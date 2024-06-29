@@ -1,0 +1,4 @@
+data/*
+!data/files_to_transfer.tsv
+!data/files_to_transfer.tsv
+.ipynb_checkpoints
